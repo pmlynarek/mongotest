@@ -1,4 +1,4 @@
-Django==2.2.4
+Django==2.2.10
 djongo==1.2.23
 django-extensions==2.2.1
 django-environ==0.4.5
